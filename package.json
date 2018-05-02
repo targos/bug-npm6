@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/targos/bug-npm6#readme",
   "dependencies": {
-    "test-package": "github:targos/test-package#3a31a39f1f8d45798cca5079531d8b5c344f8669"
+    "test-package": "github:targos/test-package#3c0be7d6f276cd1ccb56110bce941abc9ffcd837"
   }
 }
